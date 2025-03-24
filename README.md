@@ -48,6 +48,11 @@ UserLogin :
 <br>user : admin
 <br>password : arjuna123
 
+## Untuk menjaga orsinil file, siahkan pakai branch!!!
+```sh
+git checkout template
+```
+
 ##Setelah melakukan perubahan pada apa yang dikerjakan
 → Tambahkan perubahan
 ```sh
